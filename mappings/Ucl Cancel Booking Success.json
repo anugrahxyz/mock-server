@@ -1,0 +1,18 @@
+{
+	"request": {
+		"method": "POST",
+		"url": "/v1/brisurf/uclbookingcancel",
+		"bodyPatterns": null
+	},
+	"response": {
+		"status": 200,
+		"headers": {
+			"Content-Type": "application/json"
+		},
+		"jsonBody": {
+			"ResponseCode": "00",
+			"ResponseDescription": "SUCCESS - Cancel Ucl Booking",
+			"ResponseException": null
+		}
+	}
+}
